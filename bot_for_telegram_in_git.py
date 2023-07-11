@@ -8,7 +8,7 @@ from datetime import datetime
 import requests
 import time
 
-token = "5805574931:AAEK1HWFX0LdfdLCioJZxf8rhDu04wA5HKA"
+token = ""
 bot = telebot.TeleBot(token)
 
 # Лог файл.  
